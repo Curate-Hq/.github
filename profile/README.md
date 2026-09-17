@@ -1,5 +1,9 @@
 # Curate
 
+<p align="center">
+  <img src="./preview.png" alt="Curate preview" />
+</p>
+
 Curate is a visual workspace for collecting, organizing, and developing ideas.
 
 It gives you a flexible canvas to bring together images, links, notes, and references in one place. Everything can be arranged freely, making it easier to explore ideas, build collections, and keep inspiration organized.
